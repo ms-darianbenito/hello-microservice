@@ -36,7 +36,7 @@ If you prefer to run these commands without docker, you can read [Dockerfile](./
 
 - Prettier validation for all supported files.
 
-- Editor Config validation using `dotnet-format` and `eclint`.
+- Validation using `dotnet-format` and `eclint`.
 
 - Launch and debug settings for VS Code ([.vscode](./.vscode)) and Visual Studio ([launchSettings.json](./Doppler.HelloMicroservice/../Doppler.HelloMicroservice/Properties/launchSettings.json)).
 
